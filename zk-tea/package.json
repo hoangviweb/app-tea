@@ -2,7 +2,7 @@
   "name": "zk-tea",
   "version": "0.1.0",
   "author": "@hoang.viweb",
-  "repository": "git+git@github.com:hoangviweb/app-tea.git",
+  "repository": "https://github.com/hoangviweb/app-tea.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
